@@ -1,4 +1,4 @@
-package reciclaville.erros.excessoes.invaliddates;
+package reciclaville.erros.excessoes.invalidevalues;
 
 
 public abstract class InvalidValueException extends RuntimeException {

@@ -8,7 +8,7 @@ import reciclaville.dtos.declaracoes.DeclaracaoResponseDto;
 import reciclaville.dtos.itens.ItemDeclaracaoRequestDto;
 import reciclaville.dtos.materiais.MaterialResponseDto;
 import reciclaville.entities.Declaracao;
-import reciclaville.erros.excessoes.invaliddates.DeclaracaoInvalidValueException;
+import reciclaville.erros.excessoes.invalidevalues.DeclaracaoInvalidValueException;
 import reciclaville.erros.excessoes.notfounds.DeclaracaoNotFoundException;
 
 import reciclaville.erros.excessoes.requiredattributes.DeclaracaoRequiredAttributeException;

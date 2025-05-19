@@ -5,7 +5,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import reciclaville.dtos.erros.ErroResponseDto;
-import reciclaville.erros.excessoes.invaliddates.InvalidValueException;
+import reciclaville.erros.excessoes.invalidevalues.InvalidValueException;
 import reciclaville.erros.excessoes.requiredattributes.RequiredAttributeException;
 import reciclaville.erros.excessoes.notfounds.NotFoundException;
 
