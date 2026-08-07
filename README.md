@@ -1,4 +1,6 @@
-<h1 align="center">Reciclaville</h1>
+<figure style="text-align: center;">
+  <img src="./images/logo-reciclaville.png" alt="Logo do Reciclaville" width="1983">
+</figure>
 
 ## Sobre:
 
