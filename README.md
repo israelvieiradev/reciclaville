@@ -31,11 +31,11 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 
     **Exemplo de resposta**
 ```json
-    {
-      "id": 1,
-      "nome": "Papel",
-      "percCompensacaoMaterial": 10
-    }
+{
+  "id": 1,
+  "nome": "Papel",
+  "percCompensacaoMaterial": 10
+}
 ```
 
 - GET /clientes - lista clientes
@@ -46,6 +46,29 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 
   **Exemplo PUT**
 `http://localhost:8080/clientes/1`
+
+  **Exemplo de requisição**
+```json
+{
+  "empresa": "EcoVille",
+  "cnpj": "05.909.690/0001-10",
+  "nicho": "VIDRO",
+  "representante": "Rodrigo da Silva"
+}
+```
+  **Exemplo de resposta**
+```json
+[
+  {
+    "id": 1,
+    "empresa": "EcoVille",
+    "cnpj": "05.909.690/0001-10",
+    "nicho": "VIDRO",
+    "representante": "Rodrigo da Silva"
+  }
+]
+```
+
 
 - GET /declaracoes - lista declaracoes
 - GET /declaracoes/{id} - lista declaracao pelo id
