@@ -1,6 +1,6 @@
-<figure align="center">
-  <img src="./images/logo-reciclaville.png" alt="Logo do Reciclaville" width="600">
-</figure>
+
+<img src="./images/logo-reciclaville.png" alt="Logo do Reciclaville" width="600" 
+style="display: block; margin: 0 auto;">
 
 ## Sobre:
 
