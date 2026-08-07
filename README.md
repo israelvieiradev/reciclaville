@@ -10,7 +10,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 
 ## Execução
 
-- Execute a aplicação com: `.\mvnw spring-boot:run`
+- Inicialize a aplicação com: `.\mvnw spring-boot:run`
 - IDE utilizada IntelliJ IDEA 2025.2.1:
     https://www.jetbrains.com/pt-br/idea/download/?section=windows
 - Para utilizar os endpoints da API use Postman ou Insomnia:
@@ -132,6 +132,12 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 }
 ```
 
+## Banco de dados
+
+1- Crie um database chamado reciclaville
+2- Em application.properties substitua "SUA_SENHA" pela senha do seu banco de dados
+3- Após isso inicialize a aplicação
+
 ## Considerações finais
 
-Faz o cadastro de todas as entidades no banco de dados após executado
+Projeto baseado no estilo REST e no padrão arquitetural MVC
