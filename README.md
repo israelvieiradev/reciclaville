@@ -1,15 +1,10 @@
-# Reciclaville
+<h1 style="text-align: center;">Reciclaville</h1>
 
-Objetivo:
+## Sobre:
 
-O Reciclaville, criado em 2025, é uma API que possibilita o registro dos dados de
-materiais recicláveis em pontos de coleta pelo País.
+O Reciclaville, criado em 2025, é uma API desenvolvida em Java e Spring, utilizando PostgreSQL como banco de dados, que possibilita o registro de materiais recicláveis em pontos de coleta pelo país.
 
-# Tecnologias utilizadas:
-
-JAVA, SPRINGBOOT, POSTGRESQL, POSTMAN
-
-# Endpoints
+## Endpoints
 
 - GET /materiais - lista materiais
 - GET /materiais/{id} - lista material pelo id
@@ -28,6 +23,6 @@ JAVA, SPRINGBOOT, POSTGRESQL, POSTMAN
 - POST /declaracoes - cadastra declaracao
 - DELETE /declaracoes/{id} - deleta declaracao pelo id
 
-# Considerações finais
+## Considerações finais
 
 Faz o cadastro de todas as entidades no banco de dados após executado
