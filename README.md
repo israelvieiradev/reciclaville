@@ -1,8 +1,8 @@
-<figure align="center">
+<p align="center">
   <img src="./images/logo-reciclaville.png"
        alt="Logo do Reciclaville"
        width="400">
-</figure>
+</p>
 
 ## Sobre:
 
