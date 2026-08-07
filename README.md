@@ -10,12 +10,13 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 
 ## Execução
 
+- Execute a aplicação com: `.\mvnw spring-boot:run`
 - IDE utilizada IntelliJ IDEA 2025.2.1:
     https://www.jetbrains.com/pt-br/idea/download/?section=windows
 - Para utilizar os endpoints da API use Postman ou Insomnia:
     https://www.postman.com/downloads/
 
-- **Porta de acesso do Spring**
+- **Porta de acesso do Spring:**
     `http://localhost:8080`
 
 ### Endpoints
@@ -26,7 +27,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 - PUT /materiais/{id} - atualiza material pelo id
 - DELETE /materiais/{id} - deleta material pelo id
 
-**Exemplo GET**
+**Exemplo GET:**
 `http://localhost:8080/materiais`
 
 **Exemplo de resposta**
@@ -44,7 +45,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 - PUT /clientes/{id} - atualiza cliente pelo id
 - DELETE /clientes/{id} - deleta cliente pelo id
 
-**Exemplo PUT**
+**Exemplo PUT:**
 `http://localhost:8080/clientes/1`
 *Deve ser selecionado o item "raw" no body para declarar o JSON*
 
@@ -75,7 +76,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 - POST /declaracoes - cadastra declaracao
 - DELETE /declaracoes/{id} - deleta declaracao pelo id
 
-**Exemplo POST**
+**Exemplo POST:**
 `http://localhost:8080/declaracoes`
 *Deve ser selecionado o item "raw" no body para declarar o JSON*
 
