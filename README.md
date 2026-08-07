@@ -1,4 +1,4 @@
-<figure>
+<figure style="margin: 0; padding: 0;">
   <img src="./images/logo-reciclaville.png"
        alt="Logo do Reciclaville"
        width="400" style="display: block; margin: 0 auto;">
