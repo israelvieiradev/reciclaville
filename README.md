@@ -1,7 +1,7 @@
 <figure align="center">
   <img src="./images/logo-reciclaville.png"
        alt="Logo do Reciclaville"
-       width="600">
+       width="400">
 </figure>
 
 ## Sobre:
