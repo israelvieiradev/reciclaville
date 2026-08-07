@@ -93,12 +93,6 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
         "id": 1
       },
       "peso": 12
-    },
-    {
-      "material": {
-        "id": 2
-      },
-      "peso": 20
     }
   ]
 }
@@ -126,7 +120,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
         "idDeclaracao": 1,
         "material": {
           "id": 1,
-          "nome": "Plástico",
+          "nome": "PAPEL",
           "percCompensacaoMaterial": 10.0
         },
         "percCompensacao": 10.0,
