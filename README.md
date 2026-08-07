@@ -26,10 +26,10 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 - PUT /materiais/{id} - atualiza material pelo id
 - DELETE /materiais/{id} - deleta material pelo id
 
-    **Exemplo GET**
+**Exemplo GET**
 `http://localhost:8080/materiais`
 
-    **Exemplo de resposta**
+**Exemplo de resposta**
 ```json
 {
   "id": 1,
@@ -44,10 +44,11 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 - PUT /clientes/{id} - atualiza cliente pelo id
 - DELETE /clientes/{id} - deleta cliente pelo id
 
-  **Exemplo PUT**
+**Exemplo PUT**
 `http://localhost:8080/clientes/1`
+*Deve ser selecionado o item "raw" no body para declarar o JSON*
 
-  **Exemplo de requisição**
+**Exemplo de requisição**
 ```json
 {
   "empresa": "EcoVille",
@@ -56,7 +57,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
   "representante": "Rodrigo da Silva"
 }
 ```
-  **Exemplo de resposta**
+**Exemplo de resposta**
 ```json
 [
   {
@@ -69,11 +70,72 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 ]
 ```
 
-
 - GET /declaracoes - lista declaracoes
 - GET /declaracoes/{id} - lista declaracao pelo id
 - POST /declaracoes - cadastra declaracao
 - DELETE /declaracoes/{id} - deleta declaracao pelo id
+
+**Exemplo POST**
+`http://localhost:8080/declaracoes`
+*Deve ser selecionado o item "raw" no body para declarar o JSON*
+
+**Exemplo de requisição**
+```json
+{
+  "cliente": {
+    "id": 1
+  },
+  "dataInicial": "2026-08-07",
+  "dataFinal": "2026-09-10",
+  "itens": [
+    {
+      "material": {
+        "id": 1
+      },
+      "peso": 12
+    },
+    {
+      "material": {
+        "id": 2
+      },
+      "peso": 20
+    }
+  ]
+}
+```
+**Exemplo de resposta**
+```json
+
+{
+    "id": 1,
+    "cliente": {
+      "id": 1,
+      "empresa": "EcoVille",
+      "cnpj": "05.909.690/0001-10",
+      "nicho": "VIDRO",
+      "representante": "Rodrigo da Silva"
+    },
+    "dataDeclaracao": "2026-08-07",
+    "dataInicial": "2026-08-07",
+    "dataFinal": "2026-09-10",
+    "pesoTotal": 12.0,
+    "percTotalCompensacao": 10.0,
+    "itens": [
+      {
+        "id": 1,
+        "idDeclaracao": 1,
+        "material": {
+          "id": 1,
+          "nome": "Plástico",
+          "percCompensacaoMaterial": 10.0
+        },
+        "percCompensacao": 10.0,
+        "peso": 12.0,
+        "toneladasCompensadas": 1.2
+      }
+    ]
+}
+```
 
 ## Considerações finais
 
