@@ -29,18 +29,18 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 - DELETE /materiais/{id} - deleta material pelo id
 
     **Exemplo GET**
-    ```mermaid
+```mermaid
     http://localhost:8080/materiais
-    ```
+```
     **Exemplo de resposta**
 
-    ```json
+```json
     {
       "id": 1,
       "nome": "Papel",
       "percCompensacaoMaterial": 10
     }
-    ```
+```
 
 - GET /clientes - lista clientes
 - GET /clientes/{id} - lista cliente pelo id
@@ -49,9 +49,9 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 - DELETE /clientes/{id} - deleta cliente pelo id
 
   **Exemplo PUT**
-    ```mermaid
+```mermaid
     http://localhost:8080/clientes/1
-    ```
+```
 
 - GET /declaracoes - lista declaracoes
 - GET /declaracoes/{id} - lista declaracao pelo id
