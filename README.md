@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Reciclaville</h1>
+<h1 align="center">Reciclaville</h1>
 
 ## Sobre:
 
