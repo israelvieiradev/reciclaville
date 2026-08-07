@@ -16,9 +16,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
     https://www.postman.com/downloads/
 
 - **Porta de acesso do Spring**
-    ```mermaid
-    http://localhost:8080
-    ```
+    `http://localhost:8080`
 
 ### Endpoints
 
