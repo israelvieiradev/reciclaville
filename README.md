@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="./images/logo-senai-lab365.jpg" width="100" align="right" alt="Logo do Senai-LAB365">
 </p>
 <p align="center">
