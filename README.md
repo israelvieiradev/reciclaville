@@ -4,8 +4,14 @@
        width="400">
 </p>
 <p align="center">
-  <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <a href="https://www.postman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="badge-postman">
+  </a>
+  <a href="https://www.jetbrains.com" target="_blank">
+    <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="badge-jetbrains">
+  </a>
+  <a href="https://www.jetbrains.com/idea" target="_blank">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="badge-intellij">
   </a>
 </p>
 
