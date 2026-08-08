@@ -1,13 +1,21 @@
 <p align="center">
-  <img src="./images/logo-senai-lab365.jpg" width="100" align="right" alt="Logo do Senai-LAB365">  
   <img align="center" src="./images/logo-reciclaville.png"
        alt="Logo do Reciclaville"
        width="400">
+</p>
+<p align="center">
+  <img src="./images/logo-senai-lab365.jpg" width="100" align="right" alt="Logo do Senai-LAB365">
 </p>
 
 ## Sobre
 
 O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring, utilizando PostgreSQL como banco de dados, que possibilita o registro de materiais recicláveis em pontos de coleta pelo país.
+
+## Banco de dados
+
+1. Crie um database chamado reciclaville
+2. Em application.properties substitua "SUA_SENHA" pela senha do seu banco de dados
+3. Após isso inicialize a aplicação
 
 ## Execução
 
@@ -132,12 +140,6 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
     ]
 }
 ```
-
-## Banco de dados
-
-1. Crie um database chamado reciclaville
-2. Em application.properties substitua "SUA_SENHA" pela senha do seu banco de dados
-3. Após isso inicialize a aplicação
 
 ## Considerações finais
 
