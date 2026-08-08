@@ -3,10 +3,14 @@
        alt="Logo do Reciclaville"
        width="400">
 </p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Sobre
 
-O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring, utilizando PostgreSQL como banco de dados, que possibilita o registro de materiais recicláveis em pontos de coleta pelo país.
+O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 3.4.5, utilizando PostgreSQL como banco de dados, que possibilita o registro de materiais recicláveis em pontos de coleta pelo país.
 
 ## Banco de dados
 
