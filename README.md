@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="./imagens/logo-senai-lab365.png" width="100" align="right" alt="Logo do Senai-LAB365">  
   <img align="center" src="./images/logo-reciclaville.png"
        alt="Logo do Reciclaville"
        width="400">
@@ -134,9 +135,9 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring,
 
 ## Banco de dados
 
-1- Crie um database chamado reciclaville
-2- Em application.properties substitua "SUA_SENHA" pela senha do seu banco de dados
-3- Após isso inicialize a aplicação
+1. Crie um database chamado reciclaville
+2. Em application.properties substitua "SUA_SENHA" pela senha do seu banco de dados
+3. Após isso inicialize a aplicação
 
 ## Considerações finais
 
