@@ -2,9 +2,8 @@
   <img align="center" src="./images/logo-reciclaville.png"
        alt="Logo do Reciclaville"
        width="400">
-
-
-
+</p>
+<p align="center">
   <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   </a>
