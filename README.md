@@ -14,7 +14,11 @@
 
 ## Sobre
 
-O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 3.4.5, utilizando PostgreSQL como banco de dados, que possibilita o registro de materiais recicláveis em pontos de coleta pelo país.
+O Reciclaville é um projeto desenvolvido para fins educacionais, com o objetivo de aplicar conceitos de desenvolvimento de APIs REST utilizando Java, Spring Boot, PostgreSQL e o padrão arquitetural MVC.
+
+A aplicação permite o gerenciamento de materiais recicláveis, clientes e declarações de coleta por meio de endpoints HTTP, seguindo os princípios da arquitetura REST.
+
+Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalidades, melhorias de segurança, validações e aprimoramentos de arquitetura podem ser incorporados futuramente.
 
 ## Banco de dados
 
@@ -144,10 +148,3 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 
 }
 ```
 
-## Considerações finais
-
-O Reciclaville é um projeto desenvolvido para fins educacionais, com o objetivo de aplicar conceitos de desenvolvimento de APIs REST utilizando Java, Spring Boot, PostgreSQL e o padrão arquitetural MVC.
-
-A aplicação permite o gerenciamento de materiais recicláveis, clientes e declarações de coleta por meio de endpoints HTTP, seguindo os princípios da arquitetura REST.
-
-Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalidades, melhorias de segurança, validações e aprimoramentos de arquitetura podem ser incorporados futuramente.
