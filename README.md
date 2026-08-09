@@ -4,7 +4,7 @@
        width="400">
 </p>
 <p align="center">
-  [![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge%26logo=jetbrains%26logoColor=white)]
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white
   <a href="https://www.postman.com" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="badge-postman">
   </a>
