@@ -146,4 +146,5 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 
 
 ## Considerações finais
 
-Projeto baseado no estilo REST e no padrão arquitetural MVC
+- Projeto baseado no estilo REST e no padrão arquitetural MVC
+- Este projeto é apenas uma simulação para fins de estudos
