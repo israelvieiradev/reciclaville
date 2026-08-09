@@ -4,10 +4,7 @@
        width="400">
 </p>
 
-
-<nav>
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-</nav>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)(https://www.oracle.com/br/java/technologies/downloads/)
 
 ## Sobre
 
