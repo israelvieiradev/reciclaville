@@ -3,20 +3,20 @@
        alt="Logo do Reciclaville"
        width="400">
 </p>
-<p align="center">
+<p align="center" style="text-decoration: none;">
   <a href="https://www.oracle.com/br/java/technologies/downloads/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="badge-java">
   </a>
-  <a href="https://spring.io/">
+  <a href="https://spring.io/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="badge-spring">
   </a>
-  <a href="https://www.postman.com">
+  <a href="https://www.postman.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="badge-postman">
   </a>
-  <a href="https://www.jetbrains.com">
+  <a href="https://www.jetbrains.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="badge-jetbrains">
   </a>
-  <a href="https://www.jetbrains.com/idea">
+  <a href="https://www.jetbrains.com/idea" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="badge-intellij">
   </a>
 </p>
