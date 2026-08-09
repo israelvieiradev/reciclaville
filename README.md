@@ -4,6 +4,9 @@
        width="400">
 </p>
 <p align="center" style="text-decoration: none;">
+  <a>
+    ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+  </a>
   <a href="https://www.oracle.com/br/java/technologies/downloads/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="badge-java">
   </a>
