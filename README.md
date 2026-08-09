@@ -59,8 +59,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 
 - PUT /clientes/{id} - atualiza cliente pelo id
 - DELETE /clientes/{id} - deleta cliente pelo id
 
-**Exemplo PUT:**
-`http://localhost:8080/clientes/1`
+**Exemplo PUT:** `http://localhost:8080/clientes/1` <br>
 *deve ser selecionado o item "raw" no body para declarar o JSON*
 
 **Exemplo de requisição**
@@ -90,8 +89,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 
 - POST /declaracoes - cadastra declaracao
 - DELETE /declaracoes/{id} - deleta declaracao pelo id
 
-**Exemplo POST:**
-`http://localhost:8080/declaracoes`
+**Exemplo POST:** `http://localhost:8080/declaracoes`<br>
 *deve ser selecionado o item "raw" no body para declarar o JSON*
 
 **Exemplo de requisição**
