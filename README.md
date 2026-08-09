@@ -20,15 +20,14 @@ A aplicação permite o gerenciamento de materiais recicláveis, clientes e decl
 
 Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalidades, melhorias de segurança, validações e aprimoramentos de arquitetura podem ser incorporados futuramente.
 
-## Banco de dados
+## Execução
+
+### Banco de dados
 
 1. Crie um database chamado reciclaville
 2. Em application.properties substitua "SUA_SENHA" pela senha do seu banco de dados
-3. Inicialize a aplicação
+3. Inicialize a aplicação com: `.\mvnw spring-boot:run`
 
-## Execução
-
-- Inicialize a aplicação com: `.\mvnw spring-boot:run`
 - IDE utilizada IntelliJ IDEA 2025.2.1:
     https://www.jetbrains.com/pt-br/idea/download/?section=windows
 - Para utilizar os endpoints da API use Postman ou Insomnia:
