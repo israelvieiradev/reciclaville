@@ -20,7 +20,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 
 
 1. Crie um database chamado reciclaville
 2. Em application.properties substitua "SUA_SENHA" pela senha do seu banco de dados
-3. Após isso inicialize a aplicação
+3. Inicialize a aplicação
 
 ## Execução
 
