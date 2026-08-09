@@ -61,7 +61,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 
 
 **Exemplo PUT:**
 `http://localhost:8080/clientes/1`
-*Deve ser selecionado o item "raw" no body para declarar o JSON*
+*deve ser selecionado o item "raw" no body para declarar o JSON*
 
 **Exemplo de requisição**
 ```json
@@ -92,7 +92,7 @@ O Reciclaville, criado em 2025, é uma API desenvolvida com JDK 24.0.2 e Spring 
 
 **Exemplo POST:**
 `http://localhost:8080/declaracoes`
-*Deve ser selecionado o item "raw" no body para declarar o JSON*
+*deve ser selecionado o item "raw" no body para declarar o JSON*
 
 **Exemplo de requisição**
 ```json
