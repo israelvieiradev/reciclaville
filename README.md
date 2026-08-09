@@ -4,7 +4,7 @@
        width="400">
 </p>
 
-![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 <p align="center" style="text-decoration: none;">
   <a href="https://www.oracle.com/br/java/technologies/downloads/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="badge-java">
