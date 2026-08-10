@@ -20,14 +20,16 @@ A aplicação permite o gerenciamento de materiais recicláveis, clientes e decl
 
 Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalidades, melhorias de segurança, validações e aprimoramentos de arquitetura podem ser incorporados futuramente.
 
-## Execução
+## Requisitos
 
 - IDE utilizada IntelliJ IDEA 2025.2.1:
   https://www.jetbrains.com/pt-br/idea/download/?section=windows
 - Para utilizar os endpoints da API use Postman ou Insomnia:
   https://www.postman.com/downloads/
 - **Porta de acesso do Spring:**
-    `http://localhost:8080`
+  `http://localhost:8080`
+
+## Execução
 
 ### Banco de dados
 
