@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="./images/logo-reciclaville.png"
+  <img src="./images/logo-reciclaville.png"
        alt="Logo do Reciclaville"
        width="400">
 </p>
