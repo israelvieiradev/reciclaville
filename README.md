@@ -150,7 +150,15 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ## Contribuidores
 
-|                                                        |
-|--------------------------------------------------------|
-| <img src="./images/logo-senai-lab365.jpg" width="80">  | 
-| [LAB365](https://github.com/lab365-operacao)           |
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/logo-senai-lab365.jpg" width="120"><br>
+      <a href="https://github.com/lab365-operacao">LAB365</a>
+    </td>
+    <td align="center">
+      <img src="./images/prof-gabriel.png" width="120"><br>
+      <a href="https://github.com/AugustinGabriel">Prof. Gabriel Augustin</a>
+    </td>
+  </tr>
+</table>
