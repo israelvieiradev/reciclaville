@@ -148,7 +148,6 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ## Contribuidores
 
-|                                                        |
 |--------------------------------------------------------|
 | <img src="./images/logo-senai-lab365.jpg" width="80">  | 
 | [LAB365](https://github.com/lab365-operacao)           |
