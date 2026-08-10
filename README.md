@@ -14,7 +14,7 @@
 
 ## Sobre
 
-O Reciclaville é um projeto desenvolvido para fins educacionais, com o objetivo de aplicar conceitos de desenvolvimento de APIs REST utilizando Java, Spring Boot, PostgreSQL e o padrão arquitetural MVC.
+O Reciclaville é um projeto desenvolvido para fins educacionais, com o objetivo de aplicar conceitos de desenvolvimento de APIs REST utilizando JAVA 24.0.2, SPRING 3.4.5, POSTGRESQL 17 e o padrão arquitetural MVC.
 
 A aplicação permite o gerenciamento de materiais recicláveis, clientes e declarações de coleta por meio de endpoints HTTP, seguindo os princípios da arquitetura REST.
 
