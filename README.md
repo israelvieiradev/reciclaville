@@ -11,6 +11,7 @@
 [![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
 [![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## Sobre
 
@@ -22,12 +23,10 @@ Por se tratar de um projeto desenvolvido para fins de estudo, novas funcionalida
 
 ## Requisitos
 
-- IDE utilizada IntelliJ IDEA 2025.2.1:
-  https://www.jetbrains.com/pt-br/idea/download/?section=windows
-- Para utilizar os endpoints da API use Postman ou Insomnia:
-  https://www.postman.com/downloads/
-- **Porta de acesso do Spring:**
-  `http://localhost:8080`
+- Git 2.49.0: https://git-scm.com
+- IDE utilizada IntelliJ IDEA 2025.2.1: https://www.jetbrains.com/pt-br/idea/download/?section=windows
+- Para utilizar os endpoints da API use Postman ou Insomnia: https://www.postman.com/downloads
+- **Porta de acesso do Spring:** `http://localhost:8080`
 
 ## Execução
 
